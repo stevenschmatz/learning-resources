@@ -9,4 +9,4 @@ My personal collection of all of the links I've found helpful in learning about 
 
 ### Audio
 
-* [**WaveNet** by Google DeepMind (2016)](https://arxiv.org/pdf/1609.03499.pdf)
+* [**WaveNet** by Google DeepMind (2016)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) ([paper](https://arxiv.org/pdf/1609.03499.pdf))
