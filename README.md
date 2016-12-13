@@ -1,4 +1,6 @@
-# machine-learning-resources
-My personal collection of all of the links I've found helpful in learning about ML.
+# learning-resources
+My personal collection of all of the links I've found helpful, organized by subject.
 
-* [Christopher Olah's blog](http://colah.github.io/) - some of the best explanations for common + intermediate ML concepts that I've seen so far.
+## Table of Contents
+
+* [Machine Learning](https://github.com/stevenschmatz/learning-resources/blob/master/machine-learning.md) - some of the best explanations for common + intermediate ML concepts that I've seen so far.
