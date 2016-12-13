@@ -1,4 +1,5 @@
-# learning-resources
+# Learning Resources
+
 My personal collection of all of the links I've found helpful, organized by subject.
 
 ## Table of Contents
