@@ -8,6 +8,10 @@ My personal collection of all of the links I've found helpful in learning about 
 
 ## Neural Networks
 
+### Backpropagation
+
+* [Intuition on backpropagation (from Colah's Blog)](http://colah.github.io/posts/2015-08-Backprop/) *(5 mins)*
+
 ### Convolutional Neural Networks
 
 * An in-depth visual and mathematical [overview of CNNs](https://arxiv.org/pdf/1603.07285v1.pdf) *(30 mins)*
