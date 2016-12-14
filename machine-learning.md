@@ -10,6 +10,7 @@ My personal collection of all of the links I've found helpful in learning about 
 
 ### Convolutional Neural Networks
 
+* An in-depth visual and mathematical [overview of CNNs](https://arxiv.org/pdf/1603.07285v1.pdf) *(30 mins)*
 * A brief explanation of [max pooling](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks) *(1 min)*
 
 ## Generative Models
