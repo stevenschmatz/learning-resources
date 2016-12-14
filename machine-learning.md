@@ -17,6 +17,10 @@ My personal collection of all of the links I've found helpful in learning about 
 * An in-depth visual and mathematical [overview of CNNs](https://arxiv.org/pdf/1603.07285v1.pdf) *(30 mins)*
 * A brief explanation of [max pooling](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks) *(1 min)*
 
+### Activation Functions
+
+* [ReLU (Rectified Linear Unit)](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
+
 ## Generative Models
 
 ### Audio
