@@ -5,6 +5,12 @@ My personal collection of all of the links I've found helpful in learning about 
 
 * [Christopher Olah's blog](http://colah.github.io/) - some of the best explanations for common + intermediate ML concepts that I've seen so far.
 
+## Neural Networks
+
+### Convolutional Neural Networks
+
+* [Max pooling](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks)
+
 ## Generative Models
 
 ### Audio
