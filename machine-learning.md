@@ -10,7 +10,7 @@ My personal collection of all of the links I've found helpful in learning about 
 
 ### Convolutional Neural Networks
 
-* [Max pooling](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks)
+* A brief explanation of [max pooling](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks) *(1 min)*
 
 ## Generative Models
 
