@@ -1,4 +1,5 @@
-# machine-learning-resources
+# Machine Learning
+
 My personal collection of all of the links I've found helpful in learning about ML.
 
 ## General
